@@ -1,0 +1,6 @@
+@inproceedings{wang2021learning,
+    title = {Learning Indoor Inverse Rendering with 3D Spatially-Varying Lighting}, 
+    author = {Zian Wang and Jonah Philion and Sanja Fidler and Jan Kautz},
+              booktitle = {Proceedings of International Conference on Computer Vision (ICCV)},
+              year = {2021}
+}
